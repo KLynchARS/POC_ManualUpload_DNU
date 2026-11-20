@@ -1,0 +1,2 @@
+Table ID,Table Name,Table Type,Business Domain,Lifecycle Status,Review Status,Table Description,Data Steward,Contains PII (derived),CDE Count (derived),Source System,Refresh Frequency,Last Reviewed Date
+edw_prd.dw_t.dim_branch,dw_t.dim_branch,Dimension,Organization,Active,Draft,Dimension table providing descriptive attributes for reporting and analytics related to branches.,Finance Department,N,20,,,
